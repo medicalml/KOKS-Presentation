@@ -21,6 +21,20 @@ Prezentacja działań koła medical.ml
 5. Wyjazdy na konferencje - Bartek W. 
 6. Strategiczna współpraca z Nvidią - Bartek W. 
 7. Rekrutacja - Ania
+8. Dziekuujemy
 
+## Ikony
 
+2. Lupa/Znak zapytania - Ania
+3. Komputer z kodem - Cyprian
+    1. Dron - Cyprian
+    2. Organ - Bartek R.
+    3. Dzik/Swinia - Bartek R.
+4. Medal Bartek W. 
+    1. Doktor Bartek W. 
+    2. Puchar - Ania
+    
+    4. Pieniążek/Dolar - Piotr
+5. Prezentacja - Piotr
+8. @/email - Michał
 
