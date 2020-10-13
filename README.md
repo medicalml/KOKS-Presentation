@@ -2,7 +2,3 @@
 https://medicalml.github.io/KOKS-Presentation/
 
 Prezentacja działań koła medical.ml
-
-## Autorzy
-
-## Licencja
